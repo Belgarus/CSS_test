@@ -1,2 +1,2 @@
-# CSS_test
-testing CSS
+I tryed CSS the first time...
+thanks to the odin project
